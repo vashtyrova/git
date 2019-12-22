@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4b998a24-529a-4937-8d72-0673509bb582" name="Default Changelist" comment="" />
+    <list default="true" id="4b998a24-529a-4937-8d72-0673509bb582" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git_test_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/git_test_1.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,9 +69,6 @@
       <module name="git" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="C:\python\git\venv\Scripts\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
       <option name="IS_MODULE_SDK" value="false" />
@@ -107,7 +107,30 @@
       <option name="presentableId" value="Default" />
       <updated>1576947846441</updated>
     </task>
+    <task id="LOCAL-00001" summary="k">
+      <created>1577008721743</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577008721744</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="k" />
+    <option name="LAST_COMMIT_MESSAGE" value="k" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="72" key="#Python" timestamp="1577006603859">
@@ -118,6 +141,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1577006322759" />
+    <state x="424" y="8" key="CommitChangelistDialog2" timestamp="1577008708970">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="424" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1577008708970" />
     <state x="549" y="158" key="FileChooserDialogImpl" timestamp="1577008266022">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
